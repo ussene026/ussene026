@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ussene026
 - 👀 I’m interested in Web & Mobile Development
-- 🌱 I’m currently learning Mobile Development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Mobile Development
+- 💞️ I’m looking to collaborate on Open-Source Projects
 <!--- - 📫 How to reach me ...
 
 
